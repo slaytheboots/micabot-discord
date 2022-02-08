@@ -1,4 +1,4 @@
-# mica bot <3
+# micabot <3
 
 to run the bot, replace TOKEN in the Python file with your Discord bot token and add image links in their specific text files.
 
